@@ -15,3 +15,5 @@
 1. w3cschools
 2. sql-ex.ru
 3. Нужно взять что-то по-новее Грубера
+4. http://pzks.nmu.org.ua/ua/labs/lab15_bases.pdf - изучаем SQL
+5. Postgres Pro - книжка для начинающих
