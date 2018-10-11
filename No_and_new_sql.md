@@ -7,10 +7,11 @@
 4. MongoDB
 5. Redis
 6. CouchDB
-7. Neo4j
-8. ClickHouse
-9. NewSQL, особенности и развитие идей SQL и NoSQL
-10. Эксперимент с Tarantool - инфа, применение, особенности, статьи в Highload
+7. Cassandra
+8. Neo4j
+9. ClickHouse
+10. NewSQL, особенности и развитие идей SQL и NoSQL
+11. Эксперимент с Tarantool - инфа, применение, особенности, статьи в Highload
     
 ## Материалы
 1. Highload Junior
